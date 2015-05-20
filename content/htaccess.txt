@@ -1,0 +1,2 @@
+RedirectMatch (?i)^/go/free$ https://docs.google.com/document/d/1ksmrm0otFeOoj7pbO9wgN4kZB3CmqBMkSC3KM7G4KJo/edit?usp=sharing
+RedirectMatch (?i)^/go/fristie$ https://docs.google.com/document/d/1-ncBuwd-Rw-VhqfrLFmF5qLteK5pS7hEW0K0yiSlu6w/edit?usp=sharing

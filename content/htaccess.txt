@@ -1,3 +1,8 @@
 RedirectMatch (?i)^/go/free$ https://docs.google.com/document/d/1ksmrm0otFeOoj7pbO9wgN4kZB3CmqBMkSC3KM7G4KJo/edit?usp=sharing
 RedirectMatch (?i)^/go/fristie$ https://docs.google.com/document/d/1-ncBuwd-Rw-VhqfrLFmF5qLteK5pS7hEW0K0yiSlu6w/edit?usp=sharing
 RedirectMatch (?i)^/go/hodor$ https://docs.google.com/spreadsheets/d/1gFB7CTGfNWK7AemDi0AK-UEbwjfBKbv4xkEyTbi3Oc8/edit?usp=sharing
+RedirectMatch (?i)^/go/upfunk$ https://docs.google.com/document/d/1WasJgVYkvQpS6_wEwLBTQ_kGC81fvI9O95z7P65MB4o/edit?usp=sharing
+RedirectMatch (?i)^/go/fauna$ https://www.dropbox.com/sh/wo51ud4wldwf1yn/AABxarfOzXCNys7cT2xOfKD_a?dl=0
+RedirectMatch (?i)^/go/falerie$ https://docs.google.com/document/d/12eWFhQHrcS8E2wA-ZZ_ps8xOXD2wH2H3VUZheJgu9iY/edit?usp=sharing
+RedirectMatch (?i)^/go/pusheen$ https://www.dropbox.com/request/XEAwNQAdemCQq7FHHAZs
+

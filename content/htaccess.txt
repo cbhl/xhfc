@@ -6,5 +6,5 @@ RedirectMatch (?i)^/go/fauna$ https://www.dropbox.com/request/NEh4z2QUny74hf12s4
 RedirectMatch (?i)^/go/falerie$ https://docs.google.com/document/d/12eWFhQHrcS8E2wA-ZZ_ps8xOXD2wH2H3VUZheJgu9iY/edit?usp=sharing
 RedirectMatch (?i)^/go/pusheen$ https://www.dropbox.com/request/XEAwNQAdemCQq7FHHAZs
 RedirectMatch (?i)^/go/werewolf$ https://docs.google.com/spreadsheets/d/1Bp61MNe42n0Gf0GOMFMMyJFLep-0hLCxMVuhpFW-p5Y/edit?usp=sharing
-RedirectMatch (?i)^/go/werewolf-preview$ http://xhf.club/cah.html
+RedirectMatch (?i)^/go/werewolf-preview$ http://xhf.club/cah/
 

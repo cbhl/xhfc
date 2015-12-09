@@ -37,6 +37,10 @@ compile '/htaccess/' do
   # don't filter .htaccess
 end
 
+compile '/cah/' do
+  # don't filter cah.html
+end
+
 compile '/blog/feed/' do
     filter :erb
 end
@@ -62,6 +66,11 @@ end
 
 route '/htaccess/' do
   '/.htaccess'
+end
+
+route '/cah/' do
+  # Write item with identifier /foo/ to /foo/index.html
+  item.identifier + 'index.html'
 end
 
 route '/blog/feed/' do
